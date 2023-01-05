@@ -16,7 +16,7 @@ function Qualification() {
         </div>
 
         <div className="qualification__sections">
-          <div className="qualification__content">
+          <div className="qualification__content-active">
             <div className="qualification__data">
               <div>
                 <h3 className="qualification__title">
