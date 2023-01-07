@@ -9,13 +9,13 @@ function Footer() {
 
         <ul className="footer__list">
           <li>
-            <a href="#" className="footer__link">
+            <a href="#about" className="footer__link">
               About
             </a>
           </li>
 
           <li>
-            <a href="#" className="footer__link">
+            <a href="#projects" className="footer__link">
               Projects
             </a>
           </li>
@@ -30,7 +30,7 @@ function Footer() {
         <div className="footer__social">
           <a
             href="https://www.linkedin.com/in/cox-musyoki-62ab96185/"
-            className="home__social-icon"
+            className="footer__social-link"
             target="_blank"
           >
             <i class="bx bxl-linkedin"></i>
@@ -38,7 +38,7 @@ function Footer() {
 
           <a
             href="https://github.com/coxmd"
-            className="home__social-icon"
+            className="footer__social-link"
             target="_blank"
           >
             <i class="bx bxl-github"></i>
@@ -46,7 +46,7 @@ function Footer() {
 
           <a
             href="t.me/+254758812780"
-            className="home__social-icon"
+            className="footer__social-link"
             target="_blank"
           >
             <i class="bx bxl-telegram"></i>
